@@ -1,7 +1,5 @@
-### Hackathon Project
-
-### [https://www.cybera.ca/connectivity-hackathon/](Cybera Isaic Bridge the Gap Hackathon:)
-This project was originally started for the Cybera Isaic Bridge the Gap Hackathon. The goal of the hackathon was to use available datasets to create a data product that would help identify communities, and possibly demographics in Alberta that are underserved in regards to internet accessibility. This particular project was not finished in time to be submitted.
+### Cybera Isaic Bridge the Gap Hackathon Project:
+This project was originally started for the [https://www.cybera.ca/connectivity-hackathon/](Cybera Isaic Bridge the Gap Hackathon). The goal of the hackathon was to use available datasets to create a data product that would help identify communities, and possibly demographics in Alberta that are underserved in regards to internet accessibility. This particular project was not finished in time to be submitted.
 
 
 ### Original Presentation Requirements:
