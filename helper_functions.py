@@ -30,7 +30,7 @@ def boundary_cut(df_list, cut_df):
         cut_df = gpd.overlay(cut_df, df, how="difference")
         return cut_df
 
-def plot_bounds():
+def plot_bounds(gdf):
     # quick plot with standard parameters
     gdf.plot(figsize=(24, 20), color="whitesmoke", edgecolor="k", linewidth=0.5)
 
