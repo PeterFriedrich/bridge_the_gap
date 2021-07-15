@@ -14,7 +14,11 @@ These notebooks were built using Python, Geopandas, Pandas, Folium, Matplotlib, 
 #### How it Works:
 
 #### Impact:
-- challenges
-- accoplimshments
-- lessons you learned
 
+#### Challenges:
+- The library I wanted to use refused to work properly with certain parts of the reserve shapefile, I definitely got way too distracted to trying to get it to work, and trying to figure out why it wasn't working.
+
+- accomplishments
+
+#### Lessons You Learned:
+- Scoping the problem out, and laying out how to approach it, is extremely important.
