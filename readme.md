@@ -1,6 +1,8 @@
 ### Cybera Isaic Bridge the Gap Hackathon Project:
 This project was originally started for the [Cybera Isaic Bridge the Gap Hackathon.](https://www.cybera.ca/connectivity-hackathon)The goal of the hackathon was to use available datasets to create a data product that would help identify communities, and possibly demographics in Alberta that are underserved in regards to internet accessibility. This particular project was not finished in time to be submitted.
 
+[**Link to Notebook**](https://peterfriedrich.github.io/bridge_the_gap/interactive_choropleth_map.html)
+
 ### Original Presentation Requirements:
 #### Inspiration:
 - The Kaggle Geospatial Analysis [Course:](https://www.kaggle.com/learn/geospatial-analysis)
