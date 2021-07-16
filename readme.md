@@ -4,7 +4,7 @@ This project was originally started for the [Cybera Isaic Bridge the Gap Hackath
 ### Original Presentation Requirements:
 #### Inspiration:
 - The Kaggle Geospatial Analysis [Course:](https://www.kaggle.com/learn/geospatial-analysis)
-- The 4 winners of the competition, found [here.](https://wiki.cybera.ca/display/shareit/45613609/UOP67c4b31f095f4296a49eb018fa419368LVU).
+- [vverde's example on github.](https://github.com/vverde/blob)
 
 #### What You Built:
 This repo contains a set of notebooks, one for each of the hackathon goals stated, to identify communities underserved connectivity wise, and to assess the correlation between social and economic indicators.
