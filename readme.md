@@ -20,8 +20,10 @@ These notebooks were built using Python, Geopandas, Pandas, Folium, Matplotlib, 
 
 #### Challenges:
 - The library I wanted to use refused to work properly with certain parts of the reserve shapefile, I definitely got way too distracted to trying to get it to work, and trying to figure out why it wasn't working.
+- Realised that when looking at underserved communities, the choice of variable to display is important, since otherwise underserved communities just won't show up at all. Some sort of reverse ratio may be needed, like lack of speed per density.
 
-- accomplishments
+#### Accomplishments:
+Became way more accustomed to geopandas and geospatial data. Learned about github pages. 
 
 #### Lessons You Learned:
 - Scoping the problem out, and laying out how to approach it, is extremely important.
